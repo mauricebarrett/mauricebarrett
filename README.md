@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mauricebarrett
 - 👀 I’m interested in bioinformatics and in particular microbiome research
-- 🌱 I’m currently learning python and machine learning
+- 🌱 I’m currently having fun exploring how different normalisation methods affect my ML analysis outcomes such as feature importance!
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me mauricepatrickbarrett@gmail.com
 
